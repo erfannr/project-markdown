@@ -30,7 +30,6 @@ __Bombom__ | 8 bln
 
 <p>Contoh HTML</p>
 
-gi
 ```html
 <p><!DOCTYPE html>
 <html>
