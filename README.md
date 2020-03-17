@@ -24,10 +24,13 @@ _____
 
 |Kucing saya | Umur
 ---- | ----
-Pompom | 2.5thn
-Dumdum | 2.5thn
-Bombom | 8 bln
+__Pompom__ | 2.5thn
+__Dumdum__ | 2.5thn
+__Bombom__ | 8 bln
 
+<p>Contoh HTML</p>
+
+gi
 ```html
 <p><!DOCTYPE html>
 <html>
